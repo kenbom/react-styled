@@ -1,5 +1,5 @@
 function App() {
-  return <h1>test</h1>;
+  return <h2>Styled Component</h2>;
 }
 
 export default App;
